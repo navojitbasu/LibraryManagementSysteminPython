@@ -1,0 +1,16 @@
+1. Apple Foliar AI
+2. Hands-on-ML-Basic-To-Advance
+3. Health Check
+4. Code Trophs
+5. klar EDA
+6. Kitabe
+7. Operationlizing-ML
+8. Face-X
+9. Automatic Attendance Management System
+10. CoinShift-Imaging-Box
+11. Image Processing CV
+12. Forest Trees Tagging
+13. CamOps
+14. EduHelp
+15. Plant Disease Detection
+
